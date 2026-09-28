@@ -1,0 +1,5 @@
+Risk ID,Asset,Threat,Vulnerability,Risk Description,Likelihood,Impact,Risk Score,Risk Category,Treatment,Status
+RISK-001,AI Training Dataset,Malicious data manipulation,Insufficient data validation,Training data integrity may be compromised by poisoned records.,4,5,20,Critical,Mitigate,Open
+RISK-002,Training Labels,Incorrect or manipulated labels,Lack of label validation,Incorrect labels may cause the model to learn incorrect patterns.,4,4,16,High,Mitigate,Open
+RISK-003,ML Model,Training-data poisoning,Model sensitivity to corrupted training data,Poisoned training data may reduce model performance.,3,4,12,High,Mitigate,Open
+RISK-004,Poisoning Detection System,Incorrect detection,Weak detection indicators,The detection system may incorrectly flag normal records as suspicious.,4,3,12,High,Mitigate,Open
