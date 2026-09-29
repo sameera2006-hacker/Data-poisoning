@@ -49,3 +49,30 @@ Risk Assessment
 GRC Control Mapping
        ↓
 Dashboard / Monitoring
+---
+
+##🖥️ Project Dashboard
+
+The project includes a Streamlit dashboard for monitoring:
+
+- Model performance
+- Data poisoning impact
+- Detection results
+- GRC risk register
+- GRC security controls
+
+### Dashboard
+
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Model Impact
+
+![Model Impact](docs/screenshots/model-impact.png)
+
+### Detection Results
+
+![Detection Results](docs/screenshots/detection.png)
+
+### GRC Risk Register
+
+![GRC Risk Register](docs/screenshots/grc-risk.png)
