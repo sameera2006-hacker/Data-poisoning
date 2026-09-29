@@ -51,7 +51,7 @@ GRC Control Mapping
 Dashboard / Monitoring
 ---
 
-🖥️ Project Dashboard
+##🖥️ Project Dashboard
 
 The project includes a Streamlit dashboard for monitoring:
 
